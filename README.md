@@ -15,8 +15,8 @@ I'm a **Software Engineer** based in **Brno**, with a passion for **embedded sys
 - 🧠 **AI** and improving model performance
 
 ## 👨‍🎓 Background
-- 🎓 **Education**: Degree in **IT/Automation** and mechanical engineering from the **University of Technology in Brno**
-- 💼 **Work Experience**: Developed an automatic Sample Divider for Julius Kuhn Institus in Berlin, presented on conference in Hamburg.
+- 🎓 **Education**: Degree in **IT/Automation** and Mechanical Engineering from the **University of Technology in Brno**
+- 💼 **Work Experience**: Developed an Automatic Sample Divider for Julius Kühn-Institut in Berlin, presented on conference in Hamburg.
 
 ## 🚀 Personal Interests:
 - AI, science, sports, technology, travelling
