@@ -1,37 +1,29 @@
-# Hi there, I'm Jakub! 👋
+# Hello there, I'm Jakub! 👋
 
-I'm a **Software Engineer** based in **Brno**, with a passion for **AI**, **embedded systems**, and all things tech! I graduated from the **University of Technology in Brno**, where I studied **IT/Automation**. I love tackling projects that challenge my coding skills and push me to learn more every day.
-
-## 👨‍💻 Current Projects
-- 🚀 **AI Projects**: Working on image recognition, classification tasks, and improving model accuracy in machine learning.
-- 📝 **Handwritten Digit Recognition**: Using neural networks with the MNIST dataset to explore deep learning techniques.
-- 🧬 **Exploring DNA with Python**: Combining coding and biology to create a 3D visualization project focused on DNA.
+I'm a **Software Engineer** based in **Brno**, with a passion for **embedded systems**, **AI**, and all things tech! I graduated from the **University of Technology in Brno**, where I studied **IT/Automation**.
 
 ## 🛠️ Past Projects
-- 🌦️ **Weather Station**: Built with Arduino to monitor temperature and humidity in real time.
-- 📦 **Sample Divider**: Developed a more efficient communication system between hardware and software, also using Arduino.
+- 🌦️ **IOT Weather Station**: Built with Arduino to monitor weather.
+- 📦 **Sample Divider**: Developed an automatic sample divider using Arduino, OPC UA Server and Client.
   
 ## 🔧 Technologies & Tools
-- **Languages**: C, C++, Python, JavaScript, HTML, CSS
-- **Tools**: Visual Studio Code, Arduino IDE, Git, TensorFlow, Keras
+- **Languages**: C/C++, Python, Matlab
+- **Tools**: Visual Studio Code, MS Visual Studio, Arduino IDE, Git, TensorFlow, Keras
 - **Technologies**: Machine Learning, Neural Networks, Embedded Systems, Automation
 
 ## 🌱 What I'm Learning
-- 💻 **C++** for aerospace software development
 - 🧠 **AI** and improving model performance
-- 🎨 **3D Visualization** and bioinformatics, starting with DNA modeling
 
 ## 👨‍🎓 Background
 - 🎓 **Education**: Degree in **IT/Automation** from the **University of Technology in Brno**
-- 💼 **Work Experience**: Involved in software engineering projects using Arduino and C++.
+- 💼 **Work Experience**: Developed an automatic Sample Divider for Julius Kuhn Institus in Berlin, presented on conference in Hamburg.
 
-## 🐾 Fun Facts
-- 🐕 I have a playful **Golden Retriever** who's currently in the teething phase!
-- 💑 In my free time, I enjoy hanging out with my girlfriend and exploring new coding challenges.
+## 🚀 Personal Interests:
+- AI, science, sports, technology, travelling
 
 ## 📫 Let's Connect!
 Feel free to explore my projects or reach out:
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 📧 **Email**: [jakub.rolny@seznam.cz](mailto:your.email@example.com)
+- 💼 **Linked in**:[www.linkedin.com/in/jakub-rolný-637847327](https://www.linkedin.com/in/your-linkedin-profile)
 - 🌐 [Portfolio](https://your-portfolio-link.com) _(if applicable)_
