@@ -24,5 +24,5 @@ I'm a **Software Engineer** based in **Brno**, with a passion for **embedded sys
 ## 📫 Let's Connect!
 Feel free to explore my projects or reach out:
 
-- 📧 **Email**: [jakub.rolny@seznam.cz](mailto:your.email@example.com)
-- 💼 **LinkedIn**:[www.linkedin.com/in/jakub-rolný-637847327](https://www.linkedin.com/in/your-linkedin-profile)
+- 📧 **Email**: [jakub.rolny@seznam.cz](mailto:jakub.rolny@seznam.cz)
+- 💼 **LinkedIn**:[www.linkedin.com/in/jakub-rolný-637847327](www.linkedin.com/in/jakub-rolný-637847327)
