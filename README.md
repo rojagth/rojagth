@@ -8,11 +8,8 @@ I'm a **Software Engineer** based in **Brno**, with a passion for **embedded sys
   
 ## 🔧 Technologies & Tools
 - **Languages**: C/C++, Python, Matlab, SQL
-- **Tools**: Visual Studio Code, MS Visual Studio, Arduino IDE, Git, TensorFlow, Keras
-- **Technologies**: Machine Learning, Neural Networks, Embedded Systems, Automation
-
-## 🌱 What I'm Learning
-- 🧠 **AI** and improving model performance
+- **Tools**: Visual Studio Code, MS Visual Studio, Arduino IDE, Git, TensorFlow, Keras...
+- **Technologies**: Embedded Systems, Automation
 
 ## 👨‍🎓 Background
 - 🎓 **Education**: Degree in **IT and Control** and Mechanical Engineering from the **University of Technology in Brno**
