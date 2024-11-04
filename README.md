@@ -16,7 +16,7 @@ I'm a **Software Engineer** based in **Brno**, with a passion for **embedded sys
 - 💼 **Work Experience**: Developed an Automatic Sample Divider for Julius Kühn-Institut in Berlin, presented on conference in Hamburg.
 
 ## 🚀 Personal Interests:
-- AI, science, sports, technology, travelling
+- AI, science, sports, technology, travelling, space
 
 ## 📫 Let's Connect!
 Feel free to explore my projects or reach out:
